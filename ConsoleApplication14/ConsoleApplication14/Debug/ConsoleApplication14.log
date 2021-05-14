@@ -1,0 +1,6 @@
+﻿  ConsoleApplication14.cpp
+C:\Users\robert\Downloads\Nowy folder (3)\ConsoleApplication14-20210514T200727Z-001\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(65,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\robert\Downloads\Nowy folder (3)\ConsoleApplication14-20210514T200727Z-001\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(87,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\robert\Downloads\Nowy folder (3)\ConsoleApplication14-20210514T200727Z-001\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(180,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\robert\Downloads\Nowy folder (3)\ConsoleApplication14-20210514T200727Z-001\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(219,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication14.vcxproj -> C:\Users\robert\Downloads\Nowy folder (3)\ConsoleApplication14-20210514T200727Z-001\ConsoleApplication14\Debug\ConsoleApplication14.exe
